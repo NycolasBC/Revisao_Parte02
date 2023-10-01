@@ -1,0 +1,27 @@
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.deps.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.pdb
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.AssemblyReference.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfoInputs.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfo.cs
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.CoreCompileInputs.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\refint\Revisao.Data.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.pdb
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\src\Revisao.Data\obj\Debug\net6.0\ref\Revisao.Data.dll
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.AssemblyReference.cache
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfoInputs.cache
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfo.cs
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.CoreCompileInputs.cache
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.dll
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\refint\Revisao.Data.dll
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.pdb
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.deps.json
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.dll
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.pdb
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\bin\Debug\net6.0\Revisao.Domain.dll
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\bin\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.CopyComplete
+C:\Users\n\Documents\Repositorios\Uniaraxa\4° Periodo\Desenvolvimento Web\Atividades\Visual Studio\Revisao 2\src\Revisao.Data\obj\Debug\net6.0\ref\Revisao.Data.dll

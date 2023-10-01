@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQFHtEsIU/aZnW/fbGw7PMxYbqWYsy7Qd5/Nr6Fn3G0CUmueC+0tziBw3of6W46a/5NveiBLcQJR8TAeu+JT6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n\\Documents\\Repositorios\\Uniaraxa\\4° Periodo\\Desenvolvimento Web\\Atividades\\Visual Studio\\Revisao 2\\src\\Revisao.Application\\Revisao.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\n\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
